@@ -48,5 +48,13 @@ Other contributors are also here acknowledged
 2. Dr. Daniel Feldmann, University of Bremen
 3. [Dr. Markus Rampp](http://home.mpcdf.mpg.de/~mjr/), Max Planck Computing and Data Facility
 
-## Documentation and References
+## Documentation
 Find in this repository a preliminar User Guide that is currently still being improved. For more information on the methods, check the [nsCouette user guide](https://gitlab.mpcdf.mpg.de/mjr/nscouette/blob/master/doc/nsCouetteUserGuide.pdf)
+
+## References
+If you use nsPipe-CUDA please cite:
+1. López, J. M., Feldmann, D., Rampp, M., Vela-Martín, A., Shi, L., & Avila, M. (2020). nsCouette–A high-performance code for direct numerical simulations of turbulent Taylor–Couette flow. SoftwareX, 11, 100395.
+
+## Contact
+If you have any questions, comments or suggestions for improvements, please fell free to contact:
+[Daniel Morón](mailto:daniel.moron@zarm.uni-bremen.de?subject=[GitHub]%20Source%20Han%20Sans)
