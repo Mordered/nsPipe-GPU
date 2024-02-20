@@ -57,4 +57,4 @@ If you use nsPipe-CUDA please cite:
 
 ## Contact
 If you have any questions, comments or suggestions for improvements, please fell free to contact:
-* [Daniel Morón]mailto:[daniel.moron@zarm.uni-bremen.de](daniel.moron@zarm.uni-bremen.de)
+* [Daniel Morón][daniel.moron@zarm.uni-bremen.de](mailto:daniel.moron@zarm.uni-bremen.de)
