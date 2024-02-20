@@ -53,8 +53,8 @@ Find in this repository a preliminar User Guide that is currently still being im
 
 ## References
 If you use nsPipe-CUDA please cite:
-1. López, J. M., Feldmann, D., Rampp, M., Vela-Martín, A., Shi, L., & Avila, M. (2020). nsCouette–A high-performance code for direct numerical simulations of turbulent Taylor–Couette flow. SoftwareX, 11, 100395.
+* López, J. M., Feldmann, D., Rampp, M., Vela-Martín, A., Shi, L., & Avila, M. (2020). nsCouette–A high-performance code for direct numerical simulations of turbulent Taylor–Couette flow. SoftwareX, 11, 100395.
 
 ## Contact
 If you have any questions, comments or suggestions for improvements, please fell free to contact:
-[Daniel Morón]mailto:[daniel.moron@zarm.uni-bremen.de](daniel.moron@zarm.uni-bremen.de)
+* [Daniel Morón]mailto:[daniel.moron@zarm.uni-bremen.de](daniel.moron@zarm.uni-bremen.de)
