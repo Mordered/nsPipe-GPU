@@ -36,16 +36,17 @@ Following is a running list of contributors in chronological order:
 1. [Prof. Marc Avila](https://www.zarm.uni-bremen.de/en/research/fluid-dynamics/fluid-simulation-and-modeling.html), University of Bremen, ZARM.
 2. Daniel Morón Montesdeoca, University of Bremen, ZARM.
 3. Patrick Keuchel, University of Bremen, ZARM.
+4. Dr. Daniel Feldmann, University of Bremen.
 
 Specific contribution is described below:
 
 1. Prof. Marc Avila is responsible for the numerical method/formulation and supervises the development cycle
 2. Daniel Morón Montesdeoca is the main developer/maintainer and responsible for several additional features, bug-fixes, documentation and tutorials.
 3. Patrick Keuchel is currently implementing a new version of the code to perform adjoint optimizations.
+4. Dr. Daniel Feldmann is the main developer of nsCouette, and developed the method to a priori guess the pipe resolution.
 
 Other contributors are also here acknowledged
 1. Dr. Alberto Vela-Martin, Department of Aerospace Engineering, Universidad Carlos III de Madrid
-2. Dr. Daniel Feldmann, University of Bremen
 3. [Dr. Markus Rampp](http://home.mpcdf.mpg.de/~mjr/), Max Planck Computing and Data Facility
 
 ## Documentation
