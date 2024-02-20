@@ -1,5 +1,6 @@
 # nsPipe in GPU
-Our DNS code nsPipe-CUDA is the C-CUDA version of [nsPipe](https://github.com/dfeldmann/nsCouette). It solves the Navier-Stokes equations for an incompressible fluid flow in a cylindrical pipe. The governing equations for the primitive variables are discretized in a cylindrical co-ordinate system using a Fourier-Galerkin ansatz for the azimuthal and the axial direction. High-order explicit finite differences are used in the only inhomogeneous (wall-normal) direction. Periodic boundary conditions are assumed in the axial direction. nsPipe-CUDA is based on a pressure-poisson equation (PPE) formulation and a constant time-stepping. 
+Our DNS code nsPipe-CUDA is the C-CUDA version of [nsPipe](https://github.com/dfeldmann/nsCouette). It solves the Navier-Stokes equations for an incompressible fluid flow in a cylindrical pipe. The governing equations for the primitive variables are discretized in a cylindrical co-ordinate system using a Fourier-Galerkin ansatz for the azimuthal and the axial direction. High-order explicit finite differences are used in the only inhomogeneous (wall-normal) direction. Periodic boundary conditions are assumed in the axial direction. nsPipe-CUDA is based on a pressure-Poisson equation (PPE) formulation and a constant time-stepping. 
+
 This is the public version of the code. If you are interested on other versions of the code please contact us and gain access to the developer repository.
 
 ## In this repository
