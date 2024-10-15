@@ -57,6 +57,7 @@ Find in this repository a preliminar User Guide that is currently still being im
 ## References
 If you use nsPipe-CUDA please cite:
 * López, J. M., Feldmann, D., Rampp, M., Vela-Martín, A., Shi, L., & Avila, M. (2020). nsCouette–A high-performance code for direct numerical simulations of turbulent Taylor–Couette flow. SoftwareX, 11, 100395.
+* Morón, D., Vela-Martín, A., & Avila, M. (2024, April). Predictability of decay events in transitional wall-bounded flows. In Journal of Physics: Conference Series (Vol. 2753, No. 1, p. 012009). IOP Publishing.
 
 ## Contact
 If you have any questions, comments or suggestions for improvements, please fell free to contact:
