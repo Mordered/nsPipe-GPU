@@ -42,7 +42,7 @@ Following is a running list of contributors in chronological order:
 
 Specific contribution is described below:
 
-1. Dr. Daniel Morón Montesdeoca is the main developer of the code. He is currently the main maintainer and main contributor to the code.
+1. Dr. Daniel Morón Montesdeoca developed the code.. He is currently the main developer, maintainer and main contributor to the code.
 2. Prof. Marc Avila is responsible for the numerical method/formulation and supervises the development cycle.
 3. Dr. Alberto Vela-Martin developed the C-CUDA version of nsCouette, that has been used as a basis for this code.
 4. Patrick Keuchel is currently implementing a new version of the code to perform adjoint optimizations.
