@@ -4,7 +4,7 @@ Our DNS code nsPipe-CUDA is the C-CUDA version of [nsPipe](https://github.com/df
 This is the public version of the code. If you are interested on other versions of the code please contact us and gain access to the developer repository.
 
 ## In this repository
-Find the folder [Main_Code](https://github.com/Mordered/nsPipe_CUDA/tree/main/Main_Code) with the standard nsPipe_CUDA version. Find also the folder [User_Guide](https://github.com/Mordered/nsPipe_CUDA/tree/main/User_Guide), with the [User_Guide](https://github.com/Mordered/nsPipe_CUDA/blob/main/User_Guide/nsPipe_CUDA_User_Guide.pdf) of the code (still in process). 
+Find the folder [Main_Code](https://github.com/Mordered/nsPipe_CUDA/tree/main/Main_Code) with the standard nsPipe_CUDA version. Find also the folder [User_Guide](https://github.com/Mordered/nsPipe_CUDA/tree/main/User_Guide), with the [User_Guide](https://github.com/Mordered/nsPipe_CUDA/blob/main/User_Guide/nsPipe_CUDA_User_Guide.pdf) of the code (still in process).
 
 ## Dependencies and hardware/software requirements
 * An NVIDIA-GPU with CUDA capabilities.
@@ -36,15 +36,15 @@ Following is a running list of contributors in chronological order:
 
 1. [Prof. Marc Avila](https://www.zarm.uni-bremen.de/en/research/fluid-dynamics/fluid-simulation-and-modeling.html), University of Bremen, ZARM.
 2. Dr. Alberto Vela-Martin, Department of Aerospace Engineering, Universidad Carlos III de Madrid
-3. Daniel Morón Montesdeoca, University of Bremen, ZARM.
+3. Dr. Daniel Morón Montesdeoca, University of Bremen, ZARM.
 4. Patrick Keuchel, University of Bremen, ZARM.
 5. Dr. Daniel Feldmann, University of Bremen.
 
 Specific contribution is described below:
 
-1. Prof. Marc Avila is responsible for the numerical method/formulation and supervises the development cycle.
-2. Dr. Alberto Vela-Martin developed the C-CUDA version of nsCouetter, that has been used as a basis for this code.
-3. Daniel Morón Montesdeoca is the main developer/maintainer and responsible for several additional features, bug-fixes, documentation and tutorials.
+1. Dr. Daniel Morón Montesdeoca is the main developer of the code. He is currently the main maintainer and main contributor to the code.
+2. Prof. Marc Avila is responsible for the numerical method/formulation and supervises the development cycle.
+3. Dr. Alberto Vela-Martin developed the C-CUDA version of nsCouette, that has been used as a basis for this code.
 4. Patrick Keuchel is currently implementing a new version of the code to perform adjoint optimizations.
 5. Dr. Daniel Feldmann is the main developer of nsCouette, and developed the method to a priori guess the pipe resolution.
 
